@@ -27,6 +27,42 @@ It covers everything from **basics to advanced concepts**, helping you practice 
 - **Advanced** → Generators, Decorators, Error Handling, Algorithms  
 
 ---
+---
+
+## 🗺️ Exercise Roadmap
+
+Use this roadmap to practice Python step by step.
+
+### Beginner
+Start here if you are new to Python.
+
+- `problem_01.py` – `problem_50.py`
+- Basic syntax
+- Variables and data types
+- Strings
+- Lists and tuples
+- Dictionaries
+- Simple loops
+
+### Intermediate
+Continue here after learning the basics.
+
+- `problem_51.py` – `problem_130.py`
+- Control flow
+- Functions
+- Classes
+- File handling
+- Error handling
+
+### Advanced
+Use this level to improve problem-solving and project skills.
+
+- `problem_131.py` – `problem_200.py`
+- Generators
+- Decorators
+- Algorithms
+- Advanced problem solving
+- Real-world projects
 
 ## ⚙️ Prerequisites
 - **Python** ≥ 3.9 (recommended 3.11+)
